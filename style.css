@@ -93,6 +93,7 @@ margin-bottom: 5px;
 }
 
 #container-stars {
+    
     position: absolute;
     z-index: -1;
     width: 100%;
